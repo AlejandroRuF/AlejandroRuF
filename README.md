@@ -8,3 +8,4 @@
 6. Utiliza ">" para poner una cita
 
 
+Para obtener informacion sobre algunos comandos de git consulta [git.md](git.md)
