@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] 
+# 👋 ¡Hola! Soy Alejandro 
 
 ### 📚 Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
