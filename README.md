@@ -39,7 +39,7 @@ Soy un proyecto de desarrollador junior al que le encanta el **backend**, actual
 -->
 ### 🌱 Actualmente Aprendiendo
 
-- Ampliando mis conocimientos en **Python** y desarrollo backend.
+- Ampliando mis conocimientos en **Python** , **Java** y desarrollo backend.
 - Aprendiendo **Kotlin** para el desarrollo de aplicaciones móviles.
 
 ---
