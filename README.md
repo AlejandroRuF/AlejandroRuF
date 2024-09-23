@@ -31,12 +31,12 @@ Soy un proyecto de desarrollador junior al que le encanta el **backend**, actual
 
 ---
 
-### 📈 Estadísticas de GitHub
+<--### 📈 Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroRuF&show_icons=true&theme=radical)
 
 ---
-
+-->
 ### 🌱 Actualmente Aprendiendo
 
 - Ampliando mis conocimientos en **Python** y desarrollo backend.
