@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un proyecto de desarrollador junior al que le encanta el **backend**, actualmente estoy en mi segundo año del ciclo de DAM. Me encanta resolver problemas complejos y construir soluciones eficientes. He trabajado principalmente con **Java, Python**, y tecnologías web como **HTML, CSS, JavaScript,** y **Bootstrap**. Me gusta trabajar en el backend, y estoy ampliando mis conocimientos en **Python** y aprendiendo **Kotlin** para desarrollo de aplicaciones móviles.
+Soy un proyecto de desarrollador junior al que le encanta el **backend**, actualmente estoy en mi segundo año del ciclo de DAM. Me encanta resolver problemas complejos y construir soluciones eficientes. He trabajado principalmente con **Java, Python** y tecnologías web como **HTML, CSS, JavaScript** y **Bootstrap**. Me gusta trabajar en el backend, y estoy ampliando mis conocimientos en **Python** y **Java** además aprendiendo **Kotlin** para desarrollo de aplicaciones móviles.
 
 ### 🛠️ Tecnologías y Habilidades
 
@@ -39,7 +39,7 @@ Soy un proyecto de desarrollador junior al que le encanta el **backend**, actual
 -->
 ### 🌱 Actualmente Aprendiendo
 
-- Ampliando mis conocimientos en **Python** , **Java** y desarrollo backend.
+- Ampliando mis conocimientos en **Python**, **Java** y desarrollo backend.
 - Aprendiendo **Kotlin** para el desarrollo de aplicaciones móviles.
 
 ---
